@@ -23,7 +23,7 @@ h2{
     color: #828282;
 }
 #top-inline{
-    color: #ff6d4f;
+    color: #e0816e;
 }
 
 .top-inner img{
@@ -31,7 +31,7 @@ h2{
 }
 .top-button{
     text-decoration: none;
-    background-image: linear-gradient(#FF9672, #ff6d4f);
+    background-image: linear-gradient(#e6967b, #b92c10);
     padding: 10px 30px;
     border-radius: 30px;
     font-size: 15px;
@@ -53,7 +53,7 @@ h2{
 }
 .mid-button{
     text-decoration: none;
-    background-image: linear-gradient(#FF9672, #ff6d4f);
+    background-image: linear-gradient(#e6967b, #b92c10);
     padding: 10px 30px;
     border-radius: 30px;
     font-size: 15px;
